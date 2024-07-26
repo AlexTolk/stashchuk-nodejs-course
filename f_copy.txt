@@ -1,0 +1,2 @@
+This is data written to the file using stream
+streams are great
