@@ -1,5 +1,5 @@
 {
-  "name": "stashchuk-nodejs-course",
+  "name": "11-env",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "AlexTolk",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^3.3.2"
+    "dotenv": "^16.4.5"
   }
 }
